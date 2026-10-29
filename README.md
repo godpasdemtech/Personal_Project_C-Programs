@@ -1,8 +1,4 @@
 
-README 👇👇
-
-
-
 # My C Programming Projects
 
 A collection of C programs I am
