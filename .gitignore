@@ -1,3 +1,6 @@
 
 # Compiled C programs
 *.exe
+
+# Ignore VS Code project settings
+.vscode/
